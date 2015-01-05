@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
-	<group ID="01000000000000000000000000000000" name="Admin">
-	</group>
-</directory>
-
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>	<group ID="01000000000000000000000000000000" name="Admin">	</group>	<group ID="6E639517011B4D968FC439AE390B376E" name="reg users">		<include user="baki" userID="4E7AC8A8157C478ABEADB7B45AC60FBA"/>		<include user="tim" userID="5018009836A8444ABFAD197E8EB1A190"/>	</group>	<user ID="4E7AC8A8157C478ABEADB7B45AC60FBA" name="baki" fullName="baki kocaballi" password="5ef7c31f8bdf27f8fef652d48a237605"/>	<user ID="5018009836A8444ABFAD197E8EB1A190" name="tim" fullName="tim lambert" password="d54baf4a3e83c97e51412175c4802e0a"/></directory>
